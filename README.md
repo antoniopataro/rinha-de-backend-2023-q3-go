@@ -1,4 +1,4 @@
-<sub>Credits to [leorcvargas' version](https://github.com/leorcvargas/rinha-go/) and [akitaonrails' video](https://youtu.be/EifK2a_5K_U) that helped and inspired me to make this.</sub>
+<sub>credits to [leorcvargas' version](https://github.com/leorcvargas/rinha-go/) and [akitaonrails' video](https://youtu.be/EifK2a_5K_U) that helped and inspired me to make this.</sub>
 
 #### about
 this is my late version of the [rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3/), a Brazilian community competition of apis focused on performance that happened in aug/23. i was not aware of the competition when it happened, but i found it so interesting that i decided to make my own version with golang - strongly influenced by [leorcvargas' version](https://github.com/leorcvargas/rinha-go/) and [akitaonrails' video.](https://youtu.be/EifK2a_5K_U)
