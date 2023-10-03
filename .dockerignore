@@ -1,0 +1,11 @@
+bin/
+scripts/
+tmp/
+air.toml
+.env
+.env.example
+.gitignore
+docker-compose.yml
+docker-compose.*.yml
+Dockerfile
+Makefile
