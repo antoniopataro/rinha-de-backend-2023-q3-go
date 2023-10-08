@@ -3,11 +3,11 @@ package main
 import (
 	"fmt"
 
-	"github.com/antoniopataro/rinha-go/internal/config"
-	"github.com/antoniopataro/rinha-go/internal/infra/cache"
-	"github.com/antoniopataro/rinha-go/internal/infra/database"
-	"github.com/antoniopataro/rinha-go/internal/infra/http"
-	"github.com/antoniopataro/rinha-go/pkg/shutdown"
+	"github.com/antoniopataro/rinha-de-backend-2023-q3-go/internal/config"
+	"github.com/antoniopataro/rinha-de-backend-2023-q3-go/internal/infra/cache"
+	"github.com/antoniopataro/rinha-de-backend-2023-q3-go/internal/infra/database"
+	"github.com/antoniopataro/rinha-de-backend-2023-q3-go/internal/infra/http"
+	"github.com/antoniopataro/rinha-de-backend-2023-q3-go/pkg/shutdown"
 	"github.com/google/uuid"
 )
 

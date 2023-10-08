@@ -11,7 +11,7 @@ This is my late version of the [rinha-de-backend-2023-q3](https://github.com/zan
 #### Results
 You can `git clone` this repo, install [Gatling,](https://gatling.io/open-source/) change the executable with the fixed paths if needed and run the stress test in `/scritps/stress-test`, which is a copy of [the original.](https://github.com/zanfranceschi/rinha-de-backend-2023-q3/tree/main/stress-test)
 
-![image](https://github.com/antoniopataro/rinha-go/assets/87823281/f254f099-c767-4891-8329-a778736cf23f)
+![image](https://github.com/antoniopataro/rinha-de-backend-2023-q3-go/assets/87823281/f254f099-c767-4891-8329-a778736cf23f)
 
 #### Tech
 - go v1.20.6;

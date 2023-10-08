@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/antoniopataro/rinha-go/pkg/envs"
+	"github.com/antoniopataro/rinha-de-backend-2023-q3-go/pkg/envs"
 )
 
 type Envs struct {

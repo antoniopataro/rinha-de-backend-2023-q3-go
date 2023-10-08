@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/antoniopataro/rinha-go/internal/config"
+	"github.com/antoniopataro/rinha-de-backend-2023-q3-go/internal/config"
 	"github.com/redis/go-redis/v9"
 )
 
