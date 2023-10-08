@@ -5,7 +5,7 @@ on:
     branches: main
 
 env:
-  REGISTRY_IMAGE: antoniopataro/rinha-go
+  REGISTRY_IMAGE: antoniopataro/rinha-de-backend-2023-q3-go
 
 jobs:
   build:

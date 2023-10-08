@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/antoniopataro/rinha-go/internal/infra/cache"
-	"github.com/antoniopataro/rinha-go/internal/infra/database"
+	"github.com/antoniopataro/rinha-de-backend-2023-q3-go/internal/infra/cache"
+	"github.com/antoniopataro/rinha-de-backend-2023-q3-go/internal/infra/database"
 	"github.com/google/uuid"
 )
 

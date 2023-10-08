@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/antoniopataro/rinha-go/internal/config"
+	"github.com/antoniopataro/rinha-de-backend-2023-q3-go/internal/config"
 	"github.com/jackc/pgx/v5/pgxpool"
 )
 

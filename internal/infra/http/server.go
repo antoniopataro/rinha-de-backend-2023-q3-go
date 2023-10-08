@@ -1,9 +1,9 @@
 package http
 
 import (
-	"github.com/antoniopataro/rinha-go/internal/domain/people"
-	"github.com/antoniopataro/rinha-go/internal/infra/cache"
-	"github.com/antoniopataro/rinha-go/internal/infra/database"
+	"github.com/antoniopataro/rinha-de-backend-2023-q3-go/internal/domain/people"
+	"github.com/antoniopataro/rinha-de-backend-2023-q3-go/internal/infra/cache"
+	"github.com/antoniopataro/rinha-de-backend-2023-q3-go/internal/infra/database"
 	"github.com/gofiber/fiber/v2"
 )
 

@@ -1,4 +1,4 @@
-module github.com/antoniopataro/rinha-go
+module github.com/antoniopataro/rinha-de-backend-2023-q3-go
 
 go 1.20
 
